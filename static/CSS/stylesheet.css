@@ -1,0 +1,33 @@
+stylesheet.css*{
+	margin: 0 auto;
+	padding: 0px;
+}
+.wrapper{
+	width: 75%;
+	margin: 0 auto;
+	padding: 20px;
+}
+.box{
+	align-content: center;
+	outline: 1px solid black;
+	display: inline-block;
+	min-width: 100px;
+	min-height: 100px;
+	padding: 20px;
+	margin: 20px;
+	background-color: teal;
+	color: black;
+}
+#result{
+	margin-left: 20px;
+	width: 80%;
+	outline: 2px solid black;
+	overflow: scroll;
+	height: 300px;
+	color: green;
+	text-align: center;
+}
+#red{
+	color: red;
+	font-weight: bolder;
+}
